@@ -18,7 +18,7 @@ Follow these steps to run the project on your local machine:
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/LozzDev/escape-room-react.git
-   cd todolist-react
+   cd escape-room-react
    ```
 
 2. **Install dependencies**  
